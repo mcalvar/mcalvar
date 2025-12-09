@@ -18,9 +18,9 @@
 
 ## 🛠️ Habilitats
 
-### Sistemes i Virtualització
+### Sistemes i IDE
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,virtualbox,vmware,vscode" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode" width="50" height="50"/>
 </p>
 
 ### Bases de dades i Contenidors
@@ -30,7 +30,7 @@
 
 ### Xarxes i Infraestructures
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,mikrotik,tracert" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cisco" width="50" height="50"/>
 </p>
 
 ### Web i Disseny
@@ -48,5 +48,3 @@
 
 ## 📫 Contacte
 - Correu: `mcalvar893@boscdelacoma.cat`  
-
----
