@@ -29,13 +29,13 @@
 ### Bases de dades i Contenidors
 | Icona | Tecnologia |
 |-------|------------|
-| ⚙️   |(https://skillicons.dev/icons?i=oracle) | Oracle |
-| ⚙️   |https://skillicons.dev/icons?i=docker) | Docker |
+| ⚙️   | Oracle |
+| ⚙️   | Docker |
 
 ### Xarxes i Infraestructures
 | Icona | Tecnologia |
 |-------|------------|
-| ⚙️    |(https://skillicons.dev/icons?i=cisco) | Cisco |
+| ⚙️    |Cisco |
 | ⚙️ | MikroTik |
 | ⚙️ | Tracert |
 
