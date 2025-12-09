@@ -1,31 +1,41 @@
-<!-- Banner propi: puja una imatge teu al repo i posa la URL -->
+<!-- Banner Snake animat -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR‑USERNAME/YOUR‑USERNAME/main/banner‑github.png" width="100%" alt="Banner perfil"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
-<h1 align="center">👋 Hola! Sóc Marcos Calvar Espino</h1>
-<h3 align="center">Estudiant d'SMX → Ara cursant ASIX</h3>
+# 👋 Hola! Sóc Marcos Calvar Espino
+
+> Estudiant d'**ASIX** i amb formació en **SMX**.
 
 ---
 
-## 🛠️ Tecnologies i eines que utilitzo
+## 🧭 Sobre mi
+- 🎓 He completat **SMX** (menciona anys o centre si vols).
+- 🎯 Actualment cursant **ASIX** (cicle formatiu en desenvolupament d'aplicacions, etc.).
+- 💡 M'interessen: programació, DevOps bàsic, web i projectes pràctics.
 
-<p align="center">
-  <!-- Sistemes i virtualització -->
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,virtualbox,vmware,vscode&perline=8" alt="Sistemes i virtualització" />
-</p>
+---
 
-<p align="center">
-  <!-- Bases de dades i contenidors -->
-  <img src="https://skillicons.dev/icons?i=oracle,docker&perline=8" alt="Bases de dades i contenidors" />
-</p>
+## 🛠️ Habilitats
+- **Llenguatges:** HTML, CSS, JavaScript, (afegeix Python / Java / C# si cal).
+- **Entorns:** Git, GitHub, Linux bàsic.
+- **Altres:** SQL bàsic, conceptes de xarxes, eines de desenvolupament (VS Code).
 
-<p align="center">
-  <!-- Xarxes i infraestructures -->
-  <img src="https://skillicons.dev/icons?i=cisco,mikrotik,tracert&perline=8" alt="Xarxes i infraestructures" />
-</p>
+---
 
-<p align="center">
-  <!-- Web i disseny -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress&perline=8" alt="Web i disseny" />
-</p>
+## 📚 Cursos i certificacions
+- SMX — (23-25 Bosc de la coma )  
+- ASIX — (Curs actual — 1r)
+
+---
+
+## 📫 Contacte
+- Correu: `mcalvar893@boscdelacoma.cat`  
+---
+
+## ✨ Estadístiques
+
+- GitHub stats:  
+  `https://github-readme-stats.vercel.app/api?username=mcalvar&show_icons=true&count_private=true`
+- Top languages:  
+  `https://github-readme-stats.vercel.app/api/top-langs/?username=mcalvar&layout=compact`
