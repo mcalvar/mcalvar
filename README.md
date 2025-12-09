@@ -1,4 +1,3 @@
-<!-- Banner Snake animat -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
@@ -19,27 +18,34 @@
 ## 🛠️ Habilitats
 
 ### Sistemes i IDE
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode" width="70" height="70"/>  
-  VirtualBox &nbsp;&nbsp; VMware
-</p>
+| Icona | Tecnologia |
+|-------|------------|
+| ![Linux](https://skillicons.dev/icons?i=linux) | Linux |
+| ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | Ubuntu |
+| ![VSCode](https://skillicons.dev/icons?i=vscode) | VSCode |
+| ⚙️ | VirtualBox |
+| ⚙️ | VMware |
 
 ### Bases de dades i Contenidors
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=oracle,docker" width="70" height="70"/>  
-</p>
+| Icona | Tecnologia |
+|-------|------------|
+| ![Oracle](https://skillicons.dev/icons?i=oracle) | Oracle |
+| ![Docker](https://skillicons.dev/icons?i=docker) | Docker |
 
 ### Xarxes i Infraestructures
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco" width="70" height="70"/>  
-  MikroTik &nbsp;&nbsp; Tracert
-</p>
+| Icona | Tecnologia |
+|-------|------------|
+| ![Cisco](https://skillicons.dev/icons?i=cisco) | Cisco |
+| ⚙️ | MikroTik |
+| ⚙️ | Tracert |
 
 ### Web i Disseny
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress" width="70" height="70"/>  
-</p>
-
+| Icona | Tecnologia |
+|-------|------------|
+| ![HTML](https://skillicons.dev/icons?i=html) | HTML |
+| ![CSS](https://skillicons.dev/icons?i=css) | CSS |
+| ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | Bootstrap |
+| ![WordPress](https://skillicons.dev/icons?i=wordpress) | WordPress |
 ---
 
 ## 📚 Cursos i certificacions
