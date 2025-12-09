@@ -10,26 +10,43 @@
 ---
 
 ## 🧭 Sobre mi
-- 🎓 He completat **SMX** (menciona anys o centre si vols).
-- 🎯 Actualment cursant **ASIX** (cicle formatiu en desenvolupament d'aplicacions, etc.).
+- 🎓 He completat **SMX** (23-25 Bosc de la coma).  
+- 🎯 Actualment cursant **ASIX** (Curs actual — 1r).  
 - 💡 M'interessen: programació, DevOps bàsic, web i projectes pràctics.
 
 ---
 
 ## 🛠️ Habilitats
-- **Llenguatges:** HTML, CSS, JavaScript, (afegeix Python / Java / C# si cal).
-- **Entorns:** Git, GitHub, Linux bàsic.
-- **Altres:** SQL bàsic, conceptes de xarxes, eines de desenvolupament (VS Code).
+
+### Sistemes i Virtualització
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,virtualbox,vmware,vscode" width="50" height="50"/>
+</p>
+
+### Bases de dades i Contenidors
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=oracle,docker" width="50" height="50"/>
+</p>
+
+### Xarxes i Infraestructures
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cisco,mikrotik,tracert" width="50" height="50"/>
+</p>
+
+### Web i Disseny
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,wordpress" width="50" height="50"/>
+</p>
 
 ---
 
 ## 📚 Cursos i certificacions
-- SMX — (23-25 Bosc de la coma )  
+- SMX — (23-25 Bosc de la coma)  
 - ASIX — (Curs actual — 1r)
 
 ---
 
 ## 📫 Contacte
 - Correu: `mcalvar893@boscdelacoma.cat`  
----
 
+---
