@@ -11,7 +11,6 @@
 ## 🧭 Sobre mi
 - 🎓 He completat **SMX** (23-25 Bosc de la coma).  
 - 🎯 Actualment cursant **ASIX** (Curs actual — 1r).  
-- 💡 M'interessen: programació, DevOps bàsic, web i projectes pràctics.
 
 ---
 
